@@ -32,3 +32,10 @@ Analogous to C#'s Blazor.
 - [Vaadin](https://github.com/vaadin)
 - [OpenXava](https://github.com/openxava/openxava)
 - [JUI](https://github.com/mwzero/jui)
+
+## Advent of Code utilities
+
+- [github.com/dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter)
+- [github.com/Together-Java/AdventOfCode](https://github.com/Together-Java/AdventOfCode)
+- [github.com/thermoweb/aoc-java-template](https://github.com/thermoweb/aoc-java-template)
+- [github.com/Viinyard/adventofcode-template](https://github.com/Viinyard/adventofcode-template)
