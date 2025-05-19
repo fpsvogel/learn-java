@@ -2,7 +2,6 @@
 
 ## Basics
 
-- [Java Programming MOOC](https://java-programming.mooc.fi/)
 - [Core Java](https://horstmann.com/corejava/)
 - [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
 
