@@ -1,5 +1,10 @@
 # Learn Java
 
+## IDE
+
+- [VS Code Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download) if VS Code turns out to be annoyingly limited
+
 ## Basics
 
 - [📕Core Java for the Impatient](https://horstmann.com/javaimpatient/)
