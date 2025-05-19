@@ -11,6 +11,13 @@
 - [📕Modern Java in Action](https://www.manning.com/books/modern-java-in-action)
 - [📕Data-Oriented Programming in Java](https://www.manning.com/books/data-oriented-programming-in-java)
 
+## Spring
+
+- [🌐Spring Quickstart Guide](https://spring.io/quickstart)
+- [📕Spring Start Here](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) and maybe [other books](https://javarevisited.blogspot.com/2013/03/5-good-books-to-learn-spring-framework-mvc-java-programmer.html)
+- [🌐Spring Guides](https://spring.io/guides)
+- [🌐Spring Documentation](https://docs.spring.io/spring-framework/reference/)
+
 ## Concurrency
 
 - [📕Java Concurrency in Practice](https://jcip.net/)
